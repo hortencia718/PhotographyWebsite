@@ -182,7 +182,7 @@
  
  
          /* about me  */
-         /* .aboutme-container h1 {
+         /* .about me-container h1 {
             display: flex;
             justify-content: center;
             padding: 10px;
@@ -321,7 +321,7 @@
  
  
  
- /* responsive for muiltiple devices */
+ /* responsive for multiple devices */
   @media screen and (max-width: 600px) {
      .column {
        width: 100%;
